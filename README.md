@@ -39,7 +39,7 @@ Ensure you have the following installed:
 
 ## 📊 Data
 
-The project uses a CSV file named **`Sales.csv`**, located in the same folder as the Jupyter Notebook.
+The project uses a CSV file named **`Groceries data.csv`**, located in the same folder as the Jupyter Notebook.
 
 **Columns:**
 
