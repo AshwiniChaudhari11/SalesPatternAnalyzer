@@ -74,7 +74,7 @@ Run the Jupyter Notebook step by step to view:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -82,13 +82,3 @@ Contributions are welcome!
 - Submit a pull request with improvements
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Special thanks to **Federico Garay** for guidance and inspiration.
