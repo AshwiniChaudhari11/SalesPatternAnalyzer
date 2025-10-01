@@ -54,7 +54,7 @@ The project uses a CSV file named **`Sales.csv`**, located in the same folder as
 ## 🚀 Usage
 
 1. Clone the repository or download the files.
-2. Place **`Sales.csv`** in the same directory as the notebook.
+2. Place **`Groceries data.csv`** in the same directory as the notebook.
 3. Open the Jupyter Notebook and run cells sequentially.
 4. The notebook will:
    - Load and preprocess the data (normalize using MinMaxScaler).
